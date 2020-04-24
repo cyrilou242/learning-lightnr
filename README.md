@@ -4,7 +4,7 @@ This project is a re-implementation of [Gapster](https://github.com/exchez/gapst
 Generate multiple choice fill-in-the-blank questions from any article.   
 
 <p align="center"> 
-<a href="https://raplyrics.eu">
+<a href="https://github.com/cyrilou242/learning-lightnr">
 
 ![lyrics generation with curl](doc/curl.gif)
 </a>
